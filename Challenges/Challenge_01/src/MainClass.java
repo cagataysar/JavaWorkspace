@@ -5,16 +5,32 @@ public class MainClass {
     public static void main(String[] args) {
         //returnWithIf("Numan karaaslan");
         //returnWithSwitch("Drazen Petrovic");
-        returnWithArray("numan");
+        returnWithArray("NUMAN");
     }
 
     private static void returnWithArray(String name) {
         char[] charArray = new char[] {'A', 'E', 'I','İ', 'O', 'Ö','U', 'Ü'};     // 'a','e', 'ı', 'i','o', 'ö', 'u','ü'
-/*
-        for (int i = 0; i < name.length(); i++) {
+        String[] strArray = new String[] {"A", "E", "I","İ", "O", "Ö","U", "Ü"};
+        String[] numbers = new String[] {"1", "2", "3","4", "5", "6","7", "8"};
 
+        //int[] numbers = new int[] {1,2,3,4,5,6,7,8};
+
+        int i = 0;
+        String newStr = null;
+        /*while (name.contains(strArray[i])) {
+            newStr = name.replace(strArray[i], numbers[i]);
+            i++;
+        }*/
+        /*if ((name.equals(strArray[i])) {
+            newStr = name.replace(strArray[i], numbers[i]);
+            i++;
         }
-        */
+        for (i = 0; i < name.length(); i++) {
+            if () {
+                newStr = name.replace(strArray[i], numbers[i]);
+            }
+        }*/
+        System.out.println(newStr);
     }
 
     private static void returnWithSwitch(String name) {
