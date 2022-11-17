@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hesap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lib/HesapMakinesi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
