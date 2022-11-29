@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/Documents/Collections/Collections.iml" filepath="$PROJECT_DIR$/Documents/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Documents.iml" filepath="$PROJECT_DIR$/Documents/Documents.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Documents/Throwable/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/Documents/Throwable/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/HeapStackGC/HeapStackGC.iml" filepath="$PROJECT_DIR$/Documents/HeapStackGC/HeapStackGC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Abstraction/Human/Human.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Abstraction/Human/Human.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Immutability/Immutability.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Immutability/Immutability.iml" />
@@ -27,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/Documents/PassByValue/PassByValue.iml" filepath="$PROJECT_DIR$/Documents/PassByValue/PassByValue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training/Threads/Threads.iml" filepath="$PROJECT_DIR$/Training/Threads/Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Documents/Throwable/Throwable.iml" filepath="$PROJECT_DIR$/Documents/Throwable/Throwable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training/Training.iml" filepath="$PROJECT_DIR$/Training/Training.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training/OOP/finalKeyword/finalKeyword.iml" filepath="$PROJECT_DIR$/Training/OOP/finalKeyword/finalKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training/OOP/protectedKeyword/protectedKeyword.iml" filepath="$PROJECT_DIR$/Training/OOP/protectedKeyword/protectedKeyword.iml" />
