@@ -1,8 +1,8 @@
 public class GreenBayPackers {
     public static void main (String[] args) {
         QuarterBack qb = new QuarterBack();
-        qb.setName("Aaron Rodgers");
-        qb.setNumber(12);
+//        qb.setName("Aaron Rodgers");
+//        qb.setNumber(12);
         qb.passTheBall(5);
 
         RunningBack rb = new RunningBack();
@@ -13,6 +13,6 @@ public class GreenBayPackers {
         LineBacker lb = new LineBacker();
         lb.setName("Jonathan Garvin");
         lb.setNumber(53);
-        lb.makeTackle();
+        lb.makeTackleToBall();
     }
 }

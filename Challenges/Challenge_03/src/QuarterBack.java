@@ -1,4 +1,4 @@
-public class QuarterBack extends OffensivePlayer {
+public class QuarterBack extends OffensivePlayer implements OffensiveGame {
 
     @Override
     public void passTheBall (int distanceOfPass) {
@@ -10,5 +10,10 @@ public class QuarterBack extends OffensivePlayer {
     public void runWithBall (int distanceOfRunning) {
         this.distanceOfRunning += distanceOfRunning;
         System.out.println(super.getName() + " running " + distanceOfRunning + " yard.");
+    }
+
+    @Override
+    public void trainOffensivePlans () {
+        System.out.println("Working on offensive plans. ");
     }
 }

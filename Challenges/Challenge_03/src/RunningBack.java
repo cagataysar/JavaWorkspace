@@ -5,4 +5,9 @@ public class RunningBack extends OffensivePlayer {
         super.distanceOfRunning += distanceOfRunning;
         System.out.println(super.getName() + " running " + distanceOfRunning + " yard.");
     }
+
+    @Override
+    public void trainOffensivePlans () {
+        System.out.println("Working on offensive plans. ");
+    }
 }

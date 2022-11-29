@@ -1,6 +1,6 @@
 public class LineBacker extends DefensivePlayer {
     @Override
-    public void makeTackle () {
+    public void makeTackleToBall () {
         System.out.println("Good tackle from " + super.getName() + ".");
     }
 }
