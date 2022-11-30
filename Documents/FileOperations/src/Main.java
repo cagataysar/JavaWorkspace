@@ -18,7 +18,7 @@ public class Main {
 //        ornek7();
 //        ornek8();
 //        ornek9();
-        stringislemi();
+//        stringislemi();
     }
 
     private static void stringislemi () {
