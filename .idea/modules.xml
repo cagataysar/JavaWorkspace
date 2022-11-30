@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Documents/Documents.iml" filepath="$PROJECT_DIR$/Documents/Documents.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Throwable/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/Documents/Throwable/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Documents/FileOperations/FileOperations.iml" filepath="$PROJECT_DIR$/Documents/FileOperations/FileOperations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/HeapStackGC/HeapStackGC.iml" filepath="$PROJECT_DIR$/Documents/HeapStackGC/HeapStackGC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Abstraction/Human/Human.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Abstraction/Human/Human.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Immutability/Immutability.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Immutability/Immutability.iml" />
@@ -23,12 +24,15 @@
       <module fileurl="file://$PROJECT_DIR$/Training/JavaPuzzles/JavaPuzzles.iml" filepath="$PROJECT_DIR$/Training/JavaPuzzles/JavaPuzzles.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaWorkspace.iml" filepath="$PROJECT_DIR$/.idea/JavaWorkspace.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Inheritence/Kart/Kart.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Inheritence/Kart/Kart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Documents/Throwable/MyException/MyException.iml" filepath="$PROJECT_DIR$/Documents/Throwable/MyException/MyException.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training/OOP/OOP.iml" filepath="$PROJECT_DIR$/Training/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Object-OrientedJava.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Object-OrientedJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/PassByValue/PassByValue.iml" filepath="$PROJECT_DIR$/Documents/PassByValue/PassByValue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Documents/StringOperations/StringOperations.iml" filepath="$PROJECT_DIR$/Documents/StringOperations/StringOperations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training/Threads/Threads.iml" filepath="$PROJECT_DIR$/Training/Threads/Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Throwable/Throwable.iml" filepath="$PROJECT_DIR$/Documents/Throwable/Throwable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Training/ThrowableTraining/ThrowableTraining.iml" filepath="$PROJECT_DIR$/Training/ThrowableTraining/ThrowableTraining.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training/Training.iml" filepath="$PROJECT_DIR$/Training/Training.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training/OOP/finalKeyword/finalKeyword.iml" filepath="$PROJECT_DIR$/Training/OOP/finalKeyword/finalKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training/OOP/protectedKeyword/protectedKeyword.iml" filepath="$PROJECT_DIR$/Training/OOP/protectedKeyword/protectedKeyword.iml" />
