@@ -11,7 +11,7 @@ public class MyReader {
 
     public static void main (String[] args) throws Exception {
 //        readWords("C:/dosya.txt");
-        readLineAt(14);
+        readLineAt("C:/dosya.txt", 3);
     }
 
     public static void readWords (String path) throws IOException {
@@ -26,7 +26,7 @@ public class MyReader {
         bufferedReader.close();
     }
 
-    public static void readLineAt (int line) throws IOException {
+    public static void readLineAt (String path, int line) throws IOException {
         java.io.File file = new File(URI.create("file:/C://Users//sario//Desktop//dosya.txt"));
         FileReader reader = new FileReader(file);
         BufferedReader bufferedReader = new BufferedReader(reader);
@@ -41,5 +41,6 @@ public class MyReader {
         } else {
             System.out.println("Satır sayısından fazla değer!");
         }
+        bufferedReader.close();
     }
 }
