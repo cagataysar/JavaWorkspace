@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Polymorphism/Actor/Actor.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Polymorphism/Actor/Actor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Polymorphism/Aile/Aile.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Polymorphism/Aile/Aile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Documents/Annotations/Annotations.iml" filepath="$PROJECT_DIR$/Documents/Annotations/Annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Boxing/Boxing.iml" filepath="$PROJECT_DIR$/Documents/Boxing/Boxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Casting/Casting.iml" filepath="$PROJECT_DIR$/Documents/Casting/Casting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Challenges/Challenge_01/Challenge_01.iml" filepath="$PROJECT_DIR$/Challenges/Challenge_01/Challenge_01.iml" />
@@ -17,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Throwable/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/Documents/Throwable/ExceptionHandling/ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/FileOperations/FileOperations.iml" filepath="$PROJECT_DIR$/Documents/FileOperations/FileOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Documents/Generics/Generics.iml" filepath="$PROJECT_DIR$/Documents/Generics/Generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/HeapStackGC/HeapStackGC.iml" filepath="$PROJECT_DIR$/Documents/HeapStackGC/HeapStackGC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Abstraction/Human/Human.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Abstraction/Human/Human.iml" />
       <module fileurl="file://$PROJECT_DIR$/Documents/Object-OrientedJava/Immutability/Immutability.iml" filepath="$PROJECT_DIR$/Documents/Object-OrientedJava/Immutability/Immutability.iml" />
